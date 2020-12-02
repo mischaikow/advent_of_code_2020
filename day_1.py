@@ -1,6 +1,6 @@
 """Day 1 of the 2020 Advent of Code event
 
-Since this is a straightforward script, we're just going to dump it here
+Wordy and brute force
 """
 
 def fileReader(fileName):
