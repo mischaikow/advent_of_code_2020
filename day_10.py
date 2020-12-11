@@ -11,7 +11,6 @@ def readFile(fileName):
 
 def diffCount(jolt_list):
     jolt_list.sort()
-    print(jolt_list)
     one_count = three_count = 1
     for i in range(1, len(jolt_list)):
         if jolt_list[i] - jolt_list[i-1] == 1:
